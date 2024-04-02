@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\itvip\\OneDrive\\Desktop\\A2\\Doantotnghiep_pyt_website.mvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B4C020-7182-467C-B1F2-A8BC77B1BCD2}|WebShop\\WebShop.csproj|c:\\users\\itvip\\onedrive\\desktop\\a2\\doantotnghiep_pyt_website.mvc\\webshop\\views\\accounts\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5B4C020-7182-467C-B1F2-A8BC77B1BCD2}|WebShop\\WebShop.csproj|solutionrelative:webshop\\views\\accounts\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B4C020-7182-467C-B1F2-A8BC77B1BCD2}|WebShop\\WebShop.csproj|C:\\Users\\itvip\\OneDrive\\Desktop\\A2\\Doantotnghiep_pyt_website.mvc\\webshop\\areas\\admin\\views\\adminlogin\\adminlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5B4C020-7182-467C-B1F2-A8BC77B1BCD2}|WebShop\\WebShop.csproj|solutionrelative:webshop\\areas\\admin\\views\\adminlogin\\adminlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B4C020-7182-467C-B1F2-A8BC77B1BCD2}|WebShop\\WebShop.csproj|C:\\Users\\itvip\\OneDrive\\Desktop\\A2\\Doantotnghiep_pyt_website.mvc\\webshop\\areas\\admin\\views\\admincustomers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5B4C020-7182-467C-B1F2-A8BC77B1BCD2}|WebShop\\WebShop.csproj|solutionrelative:webshop\\areas\\admin\\views\\admincustomers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\itvip\\OneDrive\\Desktop\\A2\\Doantotnghiep_pyt_website.mvc\\WebShop\\Views\\Accounts\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebShop\\Views\\Accounts\\Login.cshtml",
+              "ToolTip": "C:\\Users\\itvip\\OneDrive\\Desktop\\A2\\Doantotnghiep_pyt_website.mvc\\WebShop\\Views\\Accounts\\Login.cshtml",
+              "RelativeToolTip": "WebShop\\Views\\Accounts\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-06T09:09:57.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\itvip\\OneDrive\\Desktop\\A2\\Doantotnghiep_pyt_website.mvc\\WebShop\\Areas\\Admin\\Views\\AdminLogin\\AdminLogin.cshtml",
+              "RelativeDocumentMoniker": "WebShop\\Areas\\Admin\\Views\\AdminLogin\\AdminLogin.cshtml",
+              "ToolTip": "C:\\Users\\itvip\\OneDrive\\Desktop\\A2\\Doantotnghiep_pyt_website.mvc\\WebShop\\Areas\\Admin\\Views\\AdminLogin\\AdminLogin.cshtml",
+              "RelativeToolTip": "WebShop\\Areas\\Admin\\Views\\AdminLogin\\AdminLogin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-06T09:07:30.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\itvip\\OneDrive\\Desktop\\A2\\Doantotnghiep_pyt_website.mvc\\WebShop\\Areas\\Admin\\Views\\AdminCustomers\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebShop\\Areas\\Admin\\Views\\AdminCustomers\\Details.cshtml",
+              "ToolTip": "C:\\Users\\itvip\\OneDrive\\Desktop\\A2\\Doantotnghiep_pyt_website.mvc\\WebShop\\Areas\\Admin\\Views\\AdminCustomers\\Details.cshtml",
+              "RelativeToolTip": "WebShop\\Areas\\Admin\\Views\\AdminCustomers\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-06T09:06:36.25Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
